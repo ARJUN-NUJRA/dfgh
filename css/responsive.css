@@ -1,0 +1,33 @@
+@media(max-width:576px)
+{
+.banner{
+text-align:center;
+}
+.banner-content h1{
+  font-size:28px;
+  line-height:34px;
+  text-align:center;
+}
+.banner-content h4{
+font-size:18px;
+line-height:22px;
+}
+.abt-num i{
+	bottom:106px;
+}
+.footer-content {
+	text-align:center;
+}
+.footer-content {
+	text-align:center;
+}
+
+.pricing  h1:after {
+    content: "";
+    position: absolute;
+    bottom: 129px;
+    left: 42%;
+    width:50px;
+    border-bottom: 3px solid red;	
+
+}
